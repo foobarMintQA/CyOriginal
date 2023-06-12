@@ -1,7 +1,7 @@
 # CyOriginal
 
 ### Steps to reproduce:
-- clone
+- clone the repo
 - npm install
 - npm test run
 - Choose Electron browser
