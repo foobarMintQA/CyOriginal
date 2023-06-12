@@ -1,0 +1,7 @@
+{
+    "cucumberautocomplete.steps": [
+        "cypress/integration/stepDefinitions/**/*.js",
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "git.ignoreLimitWarning": true
+}
